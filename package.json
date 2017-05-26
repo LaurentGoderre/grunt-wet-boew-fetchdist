@@ -1,0 +1,27 @@
+{
+  "name": "grunt-wet-boew-fetchdist",
+  "version": "0.1.0",
+  "description": "Grunt task for the Web Experience Toolkit build to fetch pre-built core distributable for theme builds.",
+  "dependencies": {
+    "request": "^2.81.0",
+    "requireg": "^0.1.6",
+    "tar": "^3.1.3"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wet-boew/grunt-wet-boew-fetchdist.git"
+  },
+  "author": "Laurent Goderre <laurent.goderre@gmail.com> (http://github.com/LaurentGoderre)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wet-boew/grunt-wet-boew-fetchdist/issues"
+  },
+  "homepage": "https://github.com/wet-boew/grunt-wet-boew-fetchdist#readme"
+}
