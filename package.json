@@ -1,6 +1,6 @@
 {
   "name": "grunt-wet-boew-fetchdist",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Grunt task for the Web Experience Toolkit build to fetch pre-built core distributable for theme builds.",
   "dependencies": {
     "request": "^2.81.0",
